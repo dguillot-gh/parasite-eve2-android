@@ -24,8 +24,8 @@ bin_name = "Parasite Eve II (USA, Canada) (Disc 1).bin"
 cue_name = "Parasite Eve II (USA, Canada) (Disc 1).cue"
 boot_exe = "SLUS_010.42"
 discs = [
-  "G:/ps1 ports/games to recomp/parasite eve 2/Parasite Eve II (USA, Canada) (Disc 1).cue",
-  "G:/ps1 ports/games to recomp/parasite eve 2/Parasite Eve II (USA, Canada) (Disc 2).cue",
+  "Parasite Eve II (USA, Canada) (Disc 1).cue",
+  "Parasite Eve II (USA, Canada) (Disc 2).cue",
 ]
 disc_serials = ["SLUS-01042", "SLUS-01055"]
 known_sizes = [588978432]
